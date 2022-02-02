@@ -12,3 +12,5 @@ npm run dev
 ```
 
 Visit the `/use-query` page and refresh, the page will render pre-filled with its data and there are no client side loading experience
+
+The problem is when doing the same thing with `/use-lazy-query`, you will notice that the app will keep loading forever
